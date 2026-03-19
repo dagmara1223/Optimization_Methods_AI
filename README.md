@@ -15,3 +15,11 @@ Brief explanation coming soon
 ...
 
 ### Graph Data Optimization 
+
+## 🔧 Tech Stack 
+**Language**: Python <br>
+**Frameworks**:    <br>
+**Data Processing**: <br>
+
+## 🖥️ How to use 
+Each sub-folder contains its own detailed README.md with specific installation instructions, datasets used, and performance metrics. 
