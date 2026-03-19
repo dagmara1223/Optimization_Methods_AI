@@ -1,2 +1,17 @@
 # Optimization_Methods_AI
-A collection of academic projects focused on optimizing Machine Learning models for: Tabular Data, Computer Vision, Sequential Data, Graph Data using ML, DL, GNN methods.
+
+Welcome to my omprehensive repository focused on making AI Models more efficient by throughly analyzing various methods. This project explores core techniques to enhance performance, efficiency, and accuracy across four distinct data domains: tabular, visual, sequential, and graph-based. 😊 <br>
+
+In this project, my main focus is on fine-tuning architectures, hyperparameter optimization, and advanced preprocessing to achieve state-of-the-art results for each specific data type. <br>
+
+## 📂 Project structure 
+### Tabular Data Optimization 
+Brief explanation coming soon 
+
+### Computer Vision Optimization 
+...
+
+### Sequential Data Optimization
+...
+
+### Graph Data Optimization 
