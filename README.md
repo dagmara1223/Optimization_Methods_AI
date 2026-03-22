@@ -5,8 +5,7 @@ Welcome to my omprehensive repository focused on making AI Models more efficient
 In this project, my main focus is on fine-tuning architectures, hyperparameter optimization, and advanced preprocessing to achieve state-of-the-art results for each specific data type. <br>
 
 ## 📂 Project structure 
-### Tabular Data Optimization 
-Brief explanation coming soon 
+### Tabular Data Optimization : [TabularData/README.md](TabularData/README.md)
 
 ### Computer Vision Optimization 
 ...
