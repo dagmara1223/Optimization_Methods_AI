@@ -15,10 +15,5 @@ In this project, my main focus is on fine-tuning architectures, hyperparameter o
 
 ### Graph Data Optimization 
 
-## 🔧 Tech Stack 
-**Language**: Python <br>
-**Frameworks**:    <br>
-**Data Processing**: <br>
-
 ## 🖥️ How to use 
-Each sub-folder contains its own detailed README.md with specific installation instructions, datasets used, and performance metrics. 
+Each sub-folder contains its own detailed README.md with specific installation instructions, tech-stack, datasets used, and performance metrics. 
